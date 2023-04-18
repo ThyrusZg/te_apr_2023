@@ -1,2 +1,2 @@
-working file
-changes to the working file
+def bar():
+    return False
